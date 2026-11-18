@@ -1,5 +1,5 @@
 # About Me:
-- Always eager to learn and collaborate on new projects!<br>- Currently working on my coding skills<br>- Currently learning how to optimize code<br>- Fun fact : "Bears eat Beats. Bears, Beats, Battlestar Galactica"
+-> Always eager to learn and collaborate on new projects!<br>-> Currently working on my coding skills<br>-> Currently learning how to optimize code<br>-> Fun fact : "Bears eat Beats. Bears, Beats, Battlestar Galactica"
 
 
 ## Socials:
